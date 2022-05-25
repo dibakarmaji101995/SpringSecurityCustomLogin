@@ -23,7 +23,7 @@
 		</plugins>
 	</build>
 	<properties>
-		<spring.version>4.3.7.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 		<security.version>4.0.3.RELEASE</security.version>
 	</properties>
 
